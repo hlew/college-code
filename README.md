@@ -1,4 +1,4 @@
 college-code
 ============
 Private @ https://hlew@bitbucket.org/hlew/college-code.git
-(request permission)
+(request permission https://bitbucket.org/hlew/)
